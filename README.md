@@ -3,7 +3,8 @@ A JavaScript library for implementing the Experience API (Tin Can API).
 [![Build Status](https://travis-ci.org/RusticiSoftware/TinCanJS.png)](https://travis-ci.org/RusticiSoftware/TinCanJS)
 [![GitHub release](https://img.shields.io/github/release/RusticiSoftware/TinCanJS.svg?maxAge=2592000)](https://github.com/RusticiSoftware/TinCanJS/releases)
 [![npm](https://img.shields.io/npm/v/tincanjs.svg?maxAge=2592000)](https://www.npmjs.com/package/tincanjs)
-[![license](https://img.shields.io/github/license/RUsticiSoftware/TinCanJS.svg?maxAge=2592000)]()
+[![license](https://img.shields.io/github/license/RUsticiSoftware/TinCanJS.svg?maxAge=2592000)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FTinCanJS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FTinCanJS?ref=badge_shield)
+()
 
 For hosted API documentation, basic usage instructions, supported version listing, etc. visit the main project website at:
 
@@ -64,3 +65,7 @@ Several polyfills (TypedArrays, ArrayBuffer w/ slice, Blob, TextDecoder/TextEnco
 to support various browser versions, if you are targeting a recent enough set of browsers you
 can reduce the overall size of the built library by commenting out those polyfills in the
 `Gruntfile.js` file and building yourself.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FTinCanJS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FTinCanJS?ref=badge_large)
